@@ -58,4 +58,3 @@
     <footer>
         &copy; 2024 My Website. All Rights Reserved.
     </footer>
-</body>
