@@ -38,21 +38,5 @@
             padding: 10px;
             position: fixed;
             bottom: 0;
-            width: 100%;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Welcome to My Website</h1>
-    </header>
-    <nav>
-        <a href="#">Home</a>
-        <a href="#">About</a>
-        <a href="#">Contact</a>
-    </nav>
-    <section>
-        <h2>About Us</h2>
-        <p>This is a basic HTML website template.</p>
-    </section>
-    <footer>
+            width: 100%
+            ujdfioajfmo's
