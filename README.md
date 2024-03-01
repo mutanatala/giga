@@ -56,4 +56,3 @@
         <p>This is a basic HTML website template.</p>
     </section>
     <footer>
-        &copy; 2024 My Website.
