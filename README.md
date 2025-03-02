@@ -36,3 +36,4 @@
             color: #fff;
             text-align: center;
             padding: 10px;
+fit
